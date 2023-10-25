@@ -7,7 +7,7 @@ metric:
 parameters:
     
     savepath:
-        value: "/dipc_storage/dlopez/Projects/CLSBI/wandb_models"
+        value: "/dipc_storage/dlopez/Projects/SBI-baccoemu/wandb_models"
     
     training_batch_size:
         distribution: q_log_uniform_values
