@@ -9,7 +9,7 @@ This code uses `pytorch`, `numpy`, `scipy`, `matplotlib`, `jupyter`, `sbi`[^1], 
 
 ## Code description
 The code is organized as follows:
-    - The `SBI` folder contains the codes employed to perform sbi analysis
+    - The `SBIBE` folder contains the codes employed to perform sbi analysis
     - The `notebooks` folder contains example Jupyter notebooks
 
 ## Installation
